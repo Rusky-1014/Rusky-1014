@@ -1,16 +1,65 @@
-## Hi there 👋
+# 💫 Hi, I'm Shivam Pandey
+**CSE @ VIT Chennai • Web Dev • AI & Robotics • FPGA/Hardware Enthusiast**
 
-<!--
-**Rusky-1014/Rusky-1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📩 Email me: **sp14.968598@gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on
+- AI + Robotics experiments  
+- Rocketry related digital systems  
+- Web apps using JavaScript & C++
+
+## 🌱 I’m currently learning
+- Deep Learning  
+- Advanced Verilog & FPGA workflows  
+- Modern JavaScript frameworks
+- AI/ML mini-projects  
+- Robotics, IoT systems  
+- Innovative Web development tools
+
+## 💬 Ask me about
+- Web Development, AI, Robotics, C++ 
+- Rocketry and IoT concepts
+
+## ⚡ Fun fact
+I love building things that mix **code + circuits + chaos**.
+
+---
+
+## 🔗 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/Shivp1410)
+
+---
+
+## 🐍 Snake Game Contribution Graph
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+# 💻 Tech Stack
+
+### **Languages** 
+- C++  
+- JavaScript  
+- Python  
+- Verilog
+- Python 
+
+### **Tools & Frameworks**
+- Html/Css/JS
+- React
+- Svelte  
+- Node.js  
+- Git & Linux  
+- FPGA Tools (Vivado/Quartus)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
