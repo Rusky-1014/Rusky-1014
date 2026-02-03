@@ -47,7 +47,7 @@ I love building things that mix **code + circuits + chaos**.
 - JavaScript  
 - Python  
 - Verilog
-- Python 
+- JAVA
 
 ### **Tools & Frameworks**
 - Html/Css/JS
@@ -60,6 +60,5 @@ I love building things that mix **code + circuits + chaos**.
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+### **“First, solve the problem. Then, write the code.”** - John Johnson
 ---
