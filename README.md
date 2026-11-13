@@ -109,19 +109,6 @@ Rocketry · FPGA · Verilog · Avionics · Digital Systems
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rusky-1014&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rusky-1014&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rusky-1014&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🐍 Contribution Graph
 
 <p align="center">
